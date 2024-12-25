@@ -1,0 +1,73 @@
+[
+    {
+      "name": "Leonardo DiCaprio",
+      "image": "https://picsum.photos/150/150?random=1",
+      "top_movies": ["Inception", "Titanic"],
+      "birth_date": "1974-11-11",
+      "hometown": "Los Angeles, California"
+    },
+    {
+      "name": "Scarlett Johansson",
+      "image": "https://picsum.photos/150/150?random=2",
+      "top_movies": ["Black Widow", "Marriage Story"],
+      "birth_date": "1984-11-22",
+      "hometown": "New York City, New York"
+    },
+    {
+      "name": "Brad Pitt",
+      "image": "https://picsum.photos/150/150?random=3",
+      "top_movies": ["Fight Club", "Once Upon a Time in Hollywood"],
+      "birth_date": "1963-12-18",
+      "hometown": "Shreveport, Louisiana"
+    },
+    {
+      "name": "Jennifer Lawrence",
+      "image": "https://picsum.photos/150/150?random=4",
+      "top_movies": ["The Hunger Games", "Silver Linings Playbook"],
+      "birth_date": "1990-08-15",
+      "hometown": "Louisville, Kentucky"
+    },
+    {
+      "name": "Tom Hanks",
+      "image": "https://picsum.photos/150/150?random=5",
+      "top_movies": ["Forrest Gump", "Cast Away"],
+      "birth_date": "1956-07-09",
+      "hometown": "Concord, California"
+    },
+    {
+      "name": "Meryl Streep",
+      "image": "https://picsum.photos/150/150?random=6",
+      "top_movies": ["The Devil Wears Prada", "Sophie's Choice"],
+      "birth_date": "1949-06-22",
+      "hometown": "Summit, New Jersey"
+    },
+    {
+      "name": "Chris Hemsworth",
+      "image": "https://picsum.photos/150/150?random=7",
+      "top_movies": ["Thor", "The Avengers"],
+      "birth_date": "1983-08-11",
+      "hometown": "Melbourne, Australia"
+    },
+    {
+      "name": "Emma Stone",
+      "image": "https://picsum.photos/150/150?random=8",
+      "top_movies": ["La La Land", "Easy A"],
+      "birth_date": "1988-11-06",
+      "hometown": "Scottsdale, Arizona"
+    },
+    {
+      "name": "Will Smith",
+      "image": "https://picsum.photos/150/150?random=9",
+      "top_movies": ["Men in Black", "The Pursuit of Happyness"],
+      "birth_date": "1968-09-25",
+      "hometown": "Philadelphia, Pennsylvania"
+    },
+    {
+      "name": "Natalie Portman",
+      "image": "https://picsum.photos/150/150?random=10",
+      "top_movies": ["Black Swan", "V for Vendetta"],
+      "birth_date": "1981-06-09",
+      "hometown": "Jerusalem, Israel"
+    }
+  ]
+  
